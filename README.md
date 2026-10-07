@@ -103,4 +103,4 @@ For a better writing experience, consider using Matt Bierner's [Markdown Preview
 Once installed, you can open the Markdown preview with the shortcut `Ctrl+Shift+V` (or `Cmd+Shift+V` on macOS) to see how your story will look with GitHub's styling.
 
 ## 📬 Questions?
-Open an issue or start a discussion — we’re always happy to help storytellers bring their universe to life!
+Open an issue or start a discussion — we’re always happy to help storytellers bring their universe to life! 
