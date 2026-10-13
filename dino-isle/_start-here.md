@@ -1,7 +1,7 @@
 
 # Marooned on Dino Isle
 
-## 🎬 Opening Crawl
+##  Outset Exposition
 
 ### Vacation of a Lifetime
 
