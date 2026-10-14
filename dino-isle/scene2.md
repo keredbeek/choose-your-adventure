@@ -4,6 +4,6 @@ You follow the path and take your first few steps into the strange forest, passi
 
 The path carries on, but do you?
 
-- 🚶 [Continue on the path](ENTER SCENE AFTER DONE)
+- 🚶 [Continue on the path](./scene2A.md)
 
-- 🤷 [Stray off the path](ENTER SCENE AFTER DONE)
+- 🤷 [Stray off the path](./scene2B.md)
