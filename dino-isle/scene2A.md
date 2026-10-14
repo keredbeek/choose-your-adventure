@@ -7,6 +7,6 @@ Before you can get a closer look, a deafening roar echoes through the trees. Bir
 
 The ground trembles grow as each second passes. Think fast!
 
-- 🏃 [Run farther down the path toward the open plains](./scene2C.md)
+- 🏃 [Run farther down the path](./scene2C.md)
 
 - 🌳 [Hide behind a cluster of thick trees and hope it passes](./scene2D.md)
