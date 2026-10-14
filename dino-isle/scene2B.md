@@ -4,6 +4,6 @@ You decide to leave the path and venture deeper into the forest. The thick under
 
 Slowly, you turn toward the sound. Two enormous eyes stare back at you from the darkness, followed by the outline of a massive, scaly head. The creature steps into the light, revealing rows of sharp teeth and claws that dig into the earth.
 
-A Carnotaurus. Before you can run, it lets out a deafening roar and lunges toward you.
+A (PUT DINO HERE LATER). Before you can run, it lets out a deafening roar and lunges toward you.
 
 ☠️ THE END.
