@@ -1,5 +1,5 @@
 
-# Scene 4A: Worn Down Path
+# Scene 4A: The Worn Down Path
 
 You move forward and think 'I will be across this in no time!'.  At first you are moving with ease but the water starts to get deeper.  Up out of the mist you can make out a few parasaurolophus grazing on the underwater foliage.  'I better not spook them.' you think and decide to move off to their side a ways.
 
