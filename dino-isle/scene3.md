@@ -6,6 +6,6 @@ You find yourself standing at the edge of a vast, open plain. Golden grasses swa
 
 > 💭 After you were just chased by something that's supposed to be extinct, you can't help but wonder: "What else could be hiding out there?" For now you decide to...
 
--  [Head towards the mountains](LINK)
+- ⛰️ [Head towards the mountains](LINK)
 
--  [Explore the area nearby](LINK)
+- 🕵️‍♂️ [Explore the area nearby](LINK)
