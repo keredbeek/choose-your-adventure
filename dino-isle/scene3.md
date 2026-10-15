@@ -4,7 +4,7 @@ You find yourself standing at the edge of a vast, open plain. Golden grasses swa
 
 "Wow," you say, taking in the view, "I can't believe a place like this actually exists!" In the distance, enormous mountains rise above the plains, their peaks touching the clouds. Sunlight spills across their rocky slopes, illuminating the valleys and casting long shadows over the land. For the first time since arriving on the island, you feel a sense of wonder rather than fear.
 
-> 💭 Although you were just chased by something that's supposed to be extinct. You can't help but wonder: "What else could be hiding out there?" For now you decide to...
+> 💭 After you were just chased by something that's supposed to be extinct, you can't help but wonder: "What else could be hiding out there?" For now you decide to...
 
 -  [Head towards the mountains](LINK)
 
