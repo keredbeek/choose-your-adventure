@@ -8,6 +8,6 @@ You watch quietly, careful not to disturb it, until it wanders farther into the 
 
 You decide to...
 
-- 🔍 [Search the ATV](LINK)
+- 🔍 [Search the ATV](./scene3C.md)
 
-- 🕵️ [Investigate around the ATV](LINK)
+- 🕵️ [Investigate around the ATV](./scene3D.md)

@@ -6,6 +6,6 @@ An old ATV sits abandoned in the grass, its tires half-sunken into the dirt and 
 
 "Well... that's something," you mutter as you approach it. You have no idea whether it still works, but it might be worth taking a closer look.
 
-- 🔍 [Search the ATV](LINK)
+- 🔍 [Search the ATV](./scene3C.md)
 
-- 🕵️ [Investigate around the ATV](LINK)
+- 🕵️ [Investigate around the ATV](./scene3D.md)

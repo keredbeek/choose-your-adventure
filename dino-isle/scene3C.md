@@ -8,6 +8,6 @@ Just as you're about to give up, you notice a folded piece of paper tucked under
 
 > 💭 You must be the luckiest person alive right now! "What should I do now?" you ask yourself. Thinking for a short moment, you decide to...
 
-- 🗺️ [View your map](LINK)
+- 🗺️ [View your map](./scene3E.md)
 
-- 🧘 [Stay and rest for a moment](LINK)
+- 🧘 [Stay and rest for a moment](./scene3F.md)
