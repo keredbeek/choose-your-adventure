@@ -6,6 +6,6 @@ You decide to investigate the area around the old ATV, searching the tall grass 
 
 "Heck yeah!" you pump your fist in the air in celebration. Then you...
 
-- 🗺️ [View your map](LINK)
+- 🗺️ [View your map](./scene3E.md)
 
-- 🧘 [Stay and rest for a moment](LINK)
+- 🧘 [Stay and rest for a moment](./scene3F.md)
