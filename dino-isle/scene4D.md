@@ -1,5 +1,5 @@
 
-# Scene 4D: Searching the Truck
+# Scene 4D: Search the Truck
 
 Approaching this old truck that hasn't been ran in years, you go to the back side of it.  Checking the bed of the truck you see a rusty crowbar laying in the corner. 'I'll take that ' you think.  Cautiously rounding the back you see there are a few brachiosaurus off in the distance as the light fades from the day.  The front wheels are buried deep in the mud but the right side door opens.
 
