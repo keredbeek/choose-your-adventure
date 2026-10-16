@@ -7,4 +7,4 @@ Not realizing you are actually sitting next to the leg of a brachiosaurus who is
 
 The brachiosaurus begins shaking her back leg and wiping it on a boulder to get whatever remains of you off.
 
-THE END
+☠️  THE END
