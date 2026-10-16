@@ -7,8 +7,8 @@ Looking at the map it doesn't seem to have any planned route across the plains. 
 
 Which way are you going?
 
-- 🧭 [North around triceratops family](./scene8A)
+- 🧭 [North around triceratops family](./scene8A.md)
 
-- ↔️ [Between the dino groups](./scene8B)
+- ↔️ [Between the dino groups](./scene8B.md)
 
-- 🧭 [South around stegosaurus group](./scene8C)
+- 🧭 [South around stegosaurus group](./scene8C.md)
