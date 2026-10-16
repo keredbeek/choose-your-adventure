@@ -7,4 +7,4 @@ Going into the forest you are making some loud cracking noises as you push throu
 
 Later on while the raptors are dinning over your carcass one of them remarks "This meat is a little dry, but very tender.".
 
-THE END
+☠️  THE END

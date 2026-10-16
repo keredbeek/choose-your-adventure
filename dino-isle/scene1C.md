@@ -9,4 +9,4 @@ You are knocked off balance, frantically reaching for anything to hang on to.  T
 
 After several sharks 🦈 have dined on you a large one says "It's a good thing that morsel fell into the deep.  I was famished!  Since we all know fish are friends, not food.".
 
-THE END
+☠️  THE END
