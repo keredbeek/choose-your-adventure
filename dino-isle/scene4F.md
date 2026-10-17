@@ -7,4 +7,4 @@ Looking over your shoulder the mega-gator is back up on the hood, lunges again i
 
 Scrambling at this moment, you clamber out the back of the truck and run. You head down the path you remembered from the map.  As you are exiting the swamp area you see some long necks off in the distance disappearing behind some hills.
 
-- ▶️ [Continue into the hills](./scene5)
+- ▶️ [Continue into the hills](./scene5.md)
