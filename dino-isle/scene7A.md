@@ -4,4 +4,4 @@ You carefully approach the moving herd of parasaurolophus, keeping a safe distan
 
 Eventually, the herd reaches the edge of the plains. You quietly slip away and continue down the path, relieved to have made it through safely.. or so you thought!
 
-- 👉 [Continue]
+- 👉 [Continue](./scene7E.md)
