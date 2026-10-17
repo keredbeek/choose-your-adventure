@@ -2,7 +2,7 @@
 
 Coming out of the mine, you take in the fresh outside air. Looking out over the land from the mountainside, you realize you've stumbled upon... more hills. Sighing, you continue through the hills as the morning sun rises. From the top of a hill, you spot a large herd of Parasaurolophus moving across the landscape.
 
-However, a lone Dilophosaurus circles the herd, watching closely for an opportunity to strike. The herd begins moving toward the path ahead, blocking your way forward.
+However, a lone dilophosaurus circles the herd, watching closely for an opportunity to strike. The herd begins moving toward the path ahead, blocking your way forward.
 
 With the predator nearby and the herd in your way, you have only two options: try to go around them or carefully make your way through the moving herd.
 
