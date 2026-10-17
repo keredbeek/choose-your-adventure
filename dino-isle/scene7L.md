@@ -10,4 +10,4 @@ You quickly put some distance between yourself and the predator while it's distr
 
 - 👊 [Finish him!](./scene7M.md)
 
-- 🏃 [Try to run away](./scene7G.md)
+- 🏃 [Try to run away](./scene7P.md)
