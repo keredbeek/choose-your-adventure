@@ -1,4 +1,4 @@
-# Nothing to dodge!
+# Nothing to Dodge!
 
 Unfortunately, the Dilophosaurus wasn't attacking yet! You tumble across the rocky ground and land hard on your side. The dinosaur tilts its head, almost as if it's confused by what you just did.
 

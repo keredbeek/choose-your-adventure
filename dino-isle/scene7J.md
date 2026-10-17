@@ -1,4 +1,4 @@
-# Lucky dodge!
+# Lucky Dodge!
 
 The dilophosaurus lunges at you again, swinging its claws toward your chest. You quickly duck to the side, narrowly avoiding its sharp talons.
 

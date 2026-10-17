@@ -1,4 +1,4 @@
-# The dark cave
+# The Dark Cave
 
 You step inside the cave, where the moonlight spilling in from outside barely illuminates the entrance. The walls are damp, and strange shadows stretch across the ground as you venture deeper into the darkness. A cool breeze drifts through the cave, carrying an unfamiliar scent.
 

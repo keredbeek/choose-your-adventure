@@ -1,4 +1,4 @@
-# Run towards the nearest hill
+# Run Towards the Nearest Hill
 
 You sprint toward the nearest hill as the dilophosaurus races after you. Its footsteps pound against the ground, and you can hear it closing in.
 

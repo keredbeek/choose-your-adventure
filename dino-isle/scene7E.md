@@ -1,4 +1,4 @@
-# Unforseen situation
+# Unforseen Situation
 
 Unfortunately, just as you begin heading toward the plains, the dilophosaurus turns its attention toward you. It's eyes lock onto you as it lets out a sharp hiss. Before you can react, it begins stalking toward you, blocking your path forward.
 

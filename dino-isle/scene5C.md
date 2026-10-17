@@ -1,4 +1,4 @@
-# The brave approach
+# The Brave Approach
 
 You've already survived a shipwreck, a terrifying swamp, and a run-in with a massive mega-gator. At this point, you figure you've been through so much that you might as well keep the streak going.
 

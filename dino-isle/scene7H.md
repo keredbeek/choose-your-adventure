@@ -1,4 +1,4 @@
-# Successful dodge!
+# Successful Dodge!
 
 You scramble to your feet and put some distance between yourself and the predator before it can attack again.
 

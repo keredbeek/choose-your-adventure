@@ -1,4 +1,4 @@
-# Going around
+# Going Around
 
 As you walk, loud crashes and deep, rumbling bellows echo through the darkness. You catch a glimpse of movement in the distance, but the tall grass hides whatever is making the noise.
 

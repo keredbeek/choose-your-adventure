@@ -1,4 +1,4 @@
-# A wild dilophosaurus has spotted you!
+# A Wild Dilophosaurus has Spotted You!
 
 ### You unlocked a reference/mini-game! Good luck!
 

@@ -1,4 +1,4 @@
-# Pushing forward in the mine
+# Pushing Forward in the Mine
 
 You wander through the mine, taking turn after turn through the dusty tunnels. Before long, you realize you've completely lost your sense of direction. After what feels like hours of wandering, you finally spot a faint light ahead.
 

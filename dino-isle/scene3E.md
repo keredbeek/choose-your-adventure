@@ -1,4 +1,4 @@
-# First look at the map
+# First Look at the Map
 
 ![The map displaying where you're currently at (ATV)](./images/mapATV.jpg)
 

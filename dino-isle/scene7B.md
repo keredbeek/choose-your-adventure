@@ -1,4 +1,4 @@
-# Stealthy? ..Not so much
+# Stealthy? ..Not So Much
 
 You decide to avoid the herd and take a longer route around the hills. Unfortunately, as you make your way through the tall grass, you realize you've wandered closer to the lone dilophosaurus.
 

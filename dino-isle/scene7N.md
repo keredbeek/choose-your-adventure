@@ -1,4 +1,4 @@
-# Dodging thin air!
+# Dodging Thin Air!
 
 You watch the dilophosaurus closely, waiting for it to make its next move. When it shifts slightly, you panic and quickly dive to the side to avoid an attack.
 

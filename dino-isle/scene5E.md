@@ -1,4 +1,4 @@
-# Unexpected intervention!
+# Unexpected Intervention!
 
 The two ankylosaurus immediately stop fighting as the enormous brachiosaurus🦕 stomps toward them. With an annoyed roar, it chases them away from the area.
 

@@ -1,4 +1,4 @@
-# The abandoned mine
+# The Abandoned Mine
 
 You cautiously enter the abandoned mine, brushing past thick cobwebs hanging from the entrance. Dust covers the old equipment, and the dark tunnels stretch deep into the mountain. Every passage looks nearly identical, making it difficult to tell where each one leads.
 

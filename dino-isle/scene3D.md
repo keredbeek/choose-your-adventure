@@ -1,4 +1,4 @@
-# Investigate around the ATV
+# Investigate Around the ATV
 
 You decide to investigate the area around the old ATV, searching the tall grass and nearby rocks for anything useful. Unfortunately, there's nothing but weeds, dirt, and a few suspicious-looking sticks. 
 

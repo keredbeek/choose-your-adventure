@@ -1,4 +1,4 @@
-# Hide in the tall grass
+# Hide in the Tall Grass
 
 You quickly duck into the tall grass, crouching low as the dilophosaurus approaches. You hold your breath, hoping it will pass without noticing you.
 

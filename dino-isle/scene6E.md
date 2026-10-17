@@ -1,4 +1,4 @@
-# Stay and rest
+# Stay and Rest
 
 Exhausted from the journey, you find a sheltered spot inside the cave and settle down to rest. Unfortunately, you don't realize that this cave is home to a pack of velociraptors.
 

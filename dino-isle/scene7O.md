@@ -1,4 +1,4 @@
-# A desperate move
+# A Desperate Move
 
 You hurl the rock at the dilophosaurus, and THWACK! It hits the dinosaur squarely, startling it and making it stumble backward with a surprised hiss.
 

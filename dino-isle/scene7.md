@@ -1,4 +1,4 @@
-# More... hills?
+# More... Hills?
 
 Coming out of the mine, you take in the fresh outside air. Looking out over the land from the mountainside, you realize you've stumbled upon... more hills. Sighing, you continue through the hills as the morning sun rises. From the top of a hill, you spot a large herd of Parasaurolophus moving across the landscape.
 

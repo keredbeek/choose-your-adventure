@@ -1,4 +1,4 @@
-# Stray off the path
+# Stray off the Path
 
 You decide to leave the path and venture deeper into the forest. The thick undergrowth catches at your clothes as you push between the trees, and the feeling of being watched grows stronger with every step. You stop and glance over your shoulder. Nothing. Just trees, shadows, and the faint rustling of leaves. Then, a low growl rumbles from somewhere behind you and your blood runs cold.
 
