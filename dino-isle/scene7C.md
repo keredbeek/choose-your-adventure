@@ -6,4 +6,4 @@ Just before it catches you, you scramble over the hill and slide down the other 
 
 Breathless but relieved, you check your map and continue toward the plains.
 
-- 👉 [Continue](./Scene8.md)
+- 👉 [Continue](./scene8.md)
