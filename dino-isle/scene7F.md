@@ -6,9 +6,9 @@ The dilophosaurus hisses and lunges toward you, its jaws snapping dangerously cl
 
 You spot a large rock lying in the grass nearby, but the dinosaur is already preparing to strike again.
 
-**Dilophosaurus health**: ❤️❤️❤️
+> **Dilophosaurus health**: ❤️❤️❤️
 
-**Your health**: ❤️❤️❤️
+> **Your health**: ❤️❤️❤️
 
 It's your turn!
 

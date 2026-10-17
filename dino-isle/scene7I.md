@@ -4,9 +4,9 @@ You quickly grab the nearby rock and slam it into the dinosaur's head. The impac
 
 However, the dilophosaurus quickly recovers and is about to retaliate with a furious swipe of its claws.
 
-**Dilophosaurus health**: ❤️❤️🖤
+> **Dilophosaurus health**: ❤️❤️🖤
 
-**Your health**: ❤️❤️❤️
+> **Your health**: ❤️❤️❤️
 
 It's your turn!
 
