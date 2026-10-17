@@ -5,6 +5,7 @@ The dilophosaurus lunges at you again, swinging its claws toward your chest. You
 The dinosaur stumbles past you, giving you time to act.
 
 **Dilophosaurus health**: ❤️❤️🖤
+
 **Your health**: ❤️❤️❤️
 
 It's your turn!

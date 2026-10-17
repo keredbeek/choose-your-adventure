@@ -5,6 +5,7 @@ You hurl the rock at the dilophosaurus, and THWACK! It hits the dinosaur squarel
 You quickly put some distance between yourself and the predator while it's distracted. The dilophosaurus shakes its head and turns back toward you, it's willpower wavering.
 
 **Dilophosaurus health**: ❤️🖤🖤
+
 **Your health**: ❤️❤️🖤
 
 - 👊 [Finish him!](./scene7M.md)

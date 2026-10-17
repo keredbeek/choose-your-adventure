@@ -5,6 +5,7 @@ You scramble to your feet and put some distance between yourself and the predato
 Nice reflexes! You've bought yourself another chance to survive.
 
 **Dilophosaurus health**: ❤️❤️❤️
+
 **Your health**: ❤️❤️❤️
 
 It's your turn!

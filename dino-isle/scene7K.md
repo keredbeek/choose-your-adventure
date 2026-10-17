@@ -5,6 +5,7 @@ Unfortunately, the Dilophosaurus wasn't attacking yet! You tumble across the roc
 You scramble back to your feet, embarrassed and a little bruised. Well, that was awkward... To avoid further embarrassment, you decide to stop dodging...
 
 **Dilophosaurus health**: ❤️❤️🖤
+
 **Your health**: ❤️❤️🖤
 
 It's your turn!
