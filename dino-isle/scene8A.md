@@ -1,5 +1,5 @@
 
-# Scene8A: North Around Triceretopa Family
+# North Around Triceretopa Family
 
 Heading north to get around the triceretops should be easy.  'What kind of animal would want to menace a three pronged tank?' you think to yourself.  Getting closer to the triceretops group (but still keeping distance) you observe much smaller "children" dinos in their midst.  There is one big "daddy" dino in the group that keeps eyeing you.
 

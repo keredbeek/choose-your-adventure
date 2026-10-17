@@ -1,4 +1,4 @@
-# Scene 3: A whole new world!
+# A whole new world!
 
 You find yourself standing at the edge of a vast, open plain. Golden grasses sway gently in the breeze, stretching as far as the eye can see beneath the endless blue sky. Wildflowers dot the landscape, their colors bright against the sea of green and gold.
 

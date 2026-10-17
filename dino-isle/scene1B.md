@@ -1,5 +1,5 @@
 
-# Scene 1B: Stay and Wait
+# Stay and Wait
 
 You sit on the beach all day waiting for a passing boat or plane to spot you.  Nothing materializes.  The sun is setting and you're dehydrated.  'There must be water in those trees' you think and decide to take your chances since you haven't heard any terrible noises recently.
 

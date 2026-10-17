@@ -1,5 +1,5 @@
 
-# Scene8D: Take Radio and Head to River
+# Take Radio and Head to River
 
 After packing the radio in the backpack, you head to the river.  There are a few trees you can see closer to the river but they are sparse.  You don't stray too close to the tress along the river bank lest something is hiding in them and you don't want to get the radio wet.  It looks like it is sealed but why take any chance.
 

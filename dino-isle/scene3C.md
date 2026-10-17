@@ -1,4 +1,4 @@
-# Scene 3C: Searching the ATV
+# Searching the ATV
 
 You approach the old ATV and begin searching through its rusted compartments, hoping to find something useful. Most of what you find is either broken or too weathered to be of any use. 
 

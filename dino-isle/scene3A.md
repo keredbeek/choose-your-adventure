@@ -1,4 +1,4 @@
-# Scene 3A: To the mountains!
+# To the mountains!
 
 You make your way in the direction of the mountains, pushing through the tall grass as the rocky slopes slowly grow closer. The walk is exhausting, and the open landscape leaves you feeling a little exposed. After a while, something catches your eye..
 

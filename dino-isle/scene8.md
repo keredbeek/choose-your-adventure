@@ -1,5 +1,5 @@
 
-# Scene 8: The Plains
+# More Plains!
 
 Looking out on the lush plains before you seems peaceful.  You can make out a couple different types of dinos in the distance.  They appear to be grazing, and you can't blame them.  The ground is a bit trampled in spots but the rolloing grasses look like they are waving in the breaze at you.  A very fertile feeding ground.  Thankfully you don't see any kind of predator around.
 

@@ -1,5 +1,5 @@
 
-# Scene 8E: Leave Radio and Head to River
+# Leave Radio and Head to River
 
 Deciding the radio is of little use without power, you head to the river.  There are a few trees you can see closer to the river but they are sparse.  You don't stray too close to the tress along the river bank lest something is hiding in them.
 

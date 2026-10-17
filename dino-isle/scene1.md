@@ -1,5 +1,5 @@
 
-# Scene 1: Morning is such a beach
+# Morning is such a beach
 
 You feel something pinching your fingers and hear gulls squawking.  The gritiness of sand presses on your cheek and a salty taste in your mouth.  Sitting up, a crab scurries away from your hand.  Dawn is breaking and you have no idea where you are.  The events of how you got here are a blur, but you're thankful you are alive.
 
