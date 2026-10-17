@@ -4,6 +4,6 @@ Seeing that it's weakened, you clench your fist and prepare to deliver one final
 
 You stand there for a moment, surprised that you actually won. After everything you've been through, you finally managed to scare off the predator! You breathe a sigh of relief. 
 
-🎉 You won! Hopefully, things will be a little less chaotic from here on out!
+🎉 You won! Hopefully, things will be a little less chaotic from here on out! Next stop: The plains!
 
 - 😎 [Continue victoriously](./scene8.md)
