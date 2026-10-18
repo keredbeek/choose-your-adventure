@@ -1,8 +1,8 @@
 
-# The Bridge
+# The Awning
 
-Arriving at the bridge you see the plane is much closer.   You MUST get to the dock soon!  On the bridge one dilophosaurus lunges at you, misses and falls into the water.  Hissing and splashing in its watery grave.
+There is about a 5 foot drop to the awning.  "Piece of cake" you mutter.  Sitting on the side of the building you count '1, 2, 3...GO!' and drop.  You hit the awning, it is smooth steel and you slide down it.  Coming off you drop about 3 feet and crash through the back of the truck, landing on a pile of old tarps.
 
-The other dilophosaurus is not as fast and you are able to make it to the other side.  Grabbing a large branch you face off with it when it catches up.  It lunges, you swing, knocking it to the ground - unconscious.  Your exhausted, but must keep going.
+Doing a quick check over, you see nothing is wrong.  Clambering out of the backend, you start running down the street towards the bridge.  Looking behind you there are 2 dilophosaurus chasing you a ways back.
 
-- ▶️ [Continue to the dock](./scene10Aj.md)
+- ▶️ [Continue to the bridge](./scene10Ai.md)

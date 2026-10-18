@@ -1,13 +1,8 @@
 
-# Radio Building
+# Into the Compound
 
-Arriving at the small radion building you cautiously open the door to peer inside.  Entering after making sure it is safe, you see there is a microphone on floor, wires on the desk, but no radio.  Thanking yourself that you took the jeep radio, all you need now is some power.
+Coming down the metal stairs from the top of the wall a glint of sunlight hits you in the face.  Putting your hand up, it is from solar panels on top of a small building  Next to it is a radio tower at the north end of the compound.  'That is my first stop!' you think.  It is a little ways away and you decide to keep a quiet, low profile and move along the inner wall.  After all you don't know if anything may have gotten in here.
 
-In the next room there is a large battery bank.  Looking at the battery status you see a couple still have some charge left.  'Where can I plug it in?' asking yourself.  Tracing the cords you find it goes to an outlet in the next room. Setting the radio on the desk you plug in the mic and a cord that is labeled antenna.  You scour the room and eventually find a wall plug that you jerry-rig to fit the radio connection.
+Looking at the compound area you see it is overgrown with tall foliage.  No one has been here for a long time.  Moving isn't easy in these dense plants.  You are able to move a little better along the wall.  It takes a bit but you eventually make it to the radio tower/building.
 
-This is it, with fingers crossed you flip the wall swith, hear a slight 'hmmmm' then turn on the radio.  IT WORKS!!  Hastily tuning to the emergency rado chanel, you broadcast your message: "Mayday, mayday! Is anyone recieving? Mayday, mayday!"
-After a few minutes you repeat, still nothing, so you go a third time.
-
-Then a response "We hear you.  Where are you?"  You explain to them your situation on Dino Isle.  They know where that is but it will take about 90 minutes for them to get there.  Thanking and telling them you're on the eastern end of the island in a compound.  You barely get that out and the radio dies. You pray they can get you.  You decide to see if there is a place they can get you easier because it won't be here.
-
-- 🔎 [Search compound](./scene10Ab)
+- 🗼 [Continue into radio building](./scene10Aa.md)

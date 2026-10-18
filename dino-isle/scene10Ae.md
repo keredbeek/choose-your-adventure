@@ -1,12 +1,11 @@
 
-# The Fire Escape
+# Down the Street
 
-Jumping for the fire escape ladder you climb up away from those spitting hissers.  'They can't get up here.' you muse and walk to the other side of the large roof.  Looking out you see there is a dock on the penninsula in the distance.  Stretching before you is less vegetation, a bridge, then the long penninsula.
+You are hungry but opt to get to the south penninsula to see if there is an area to be picked up.  After a little bit of walking through the ankle deep fooliage you hear a little 'sqwark'.  Stopping in your tracks for a second you feel it has to be a nearby bird.
 
-Resting for a few minutes, you hear a faint engine sound.  "I have to get to the dock!" you gasp.  On your left is a ladder that only goes halfway to the ground.  To the right is a steep awning with a truck under it.
+Taking a rest for a moment against a beat up truck, you hear that 'sqwark' again and some shuffling.  Surprising you a little dino jumps up on the trucks hood.  It's a compsognathus.  Hearing multiple 'sqwarks' you turn around seeing a couple dozen of them.
 
-Which route will you take?
+Planning on running away sounds great until your feet get tangled in the undergrowth.  In a flash they are upon you.  These little land piranha come out of everywhere to devour your entire body by the time the rescue plane lands.  Your skeleton and the sound of tiny 'burps' are all they find.
 
-- 🪜 [Take the ladder](./scene10Ag.md)
+☠️ THE END
 
-- ⛱️ [Go with the awning](./scene10Ah.md)

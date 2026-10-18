@@ -1,8 +1,8 @@
 
-# The Awning
+# The Ladder
 
-There is about a 5 foot drop to the awning.  "Piece of cake" you mutter.  Sitting on the side of the building you count '1, 2, 3...GO!' and drop.  You hit the awning, it is smooth steel and you slide down it.  Coming off you drop about 3 feet and crash through the back of the truck, landing on a pile of old tarps.
+Not wanting to risk an uncontrolled fall you get on the ladder.  About halfway down it ends.  'This shouldn't be too hard.' you think.  Hanging you guess that it's about 8 feet from your shoes to the ground.  Landing you hear a CRACK and immense pain from your left leg.  It is broken.
 
-Doing a quick check over, you see nothing is wrong.  Clambering out of the backend, you start running down the street towards the bridge.  Looking behind you there are 2 dilophosaurus chasing you a ways back.
+Sitting there for a little bit clutching your lower leg you hear a 'sqwark' from around the corner.  A compsognathus comes out in view.  It sqwarks again and suddenly there are dozens more all looking at you.  In a flash they are upon you.  These little land piranha devour you by the time the rescue plane arrives.  They only find a skeleton and hear the sound of tiny 'burps'.
 
-- ▶️ [Continue to the bridge](./scene10Ai.md)
+☠️ THE END

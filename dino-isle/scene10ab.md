@@ -1,12 +1,13 @@
 
-# Search Compound
+# Radio Building
 
-Looking at the map you see there is a penninsula on the south end of the compound.  "That is where I would go to be picked up" you say to nobody.  Leaving the radio shack you head that way down the main road.  Discarded equipment and non-running vehicles are all over.  Overgrowth is everywhere and over everything, otherwise it seems like a safe area.  Nothing seen nor heard, but you still are cautious.
+Arriving at the small radion building you cautiously open the door to peer inside.  Entering after making sure it is safe, you see there is a microphone on floor, wires on the desk, but no radio.  Thanking yourself that you took the jeep radio, all you need now is some power.
 
-You come upon a large building on your left that says Canteen above the entrance.  Off to the right is a little thicher, but manageable route through the overgrowth that goes south on what was once a street.
+In the next room there is a large battery bank.  Looking at the battery status you see a couple still have some charge left.  'Where can I plug it in?' asking yourself.  Tracing the cords you find it goes to an outlet in the next room. Setting the radio on the desk you plug in the mic and a cord that is labeled antenna.  You scour the room and eventually find a wall plug that you jerry-rig to fit the radio connection.
 
-Which way will you go?
+This is it, with fingers crossed you flip the wall swith, hear a slight 'hmmmm' then turn on the radio.  IT WORKS!!  Hastily tuning to the emergency rado chanel, you broadcast your message: "Mayday, mayday! Is anyone recieving? Mayday, mayday!"
+After a few minutes you repeat, still nothing, so you go a third time.
 
-- 🍽️ [Enter the canteen](./scene10Ac.md)
+Then a response "We hear you.  Where are you?"  You explain to them your situation on Dino Isle.  They know where that is but it will take about 90 minutes for them to get there.  Thanking and telling them you're on the eastern end of the island in a compound.  You barely get that out and the radio dies. You pray they can get you.  You decide to see if there is a place they can get you easier because it won't be here.
 
-- 🛣️ [Go down the street](./scene10Ad.md)
+- 🔎 [Search compound](./scene10Ab)
