@@ -1,7 +1,7 @@
 
 # Search the Wall
 
-Walking north next to wall you can see it is getting late in the afternoon.  Keeping an eye out on the plains the only dinos you see are a few corythosaurus munching on the grasses.  You get a ways north from the river to a bend in the wall.  Going around the bend you see a large garage type door!  Its heavy and you can't move it at all.
+Walking north next to wall you can see it is getting late in the afternoon.  Keeping an eye out on the plains the only dinos you see are a few corythosaurus munching on the grasses.  You get a ways north from the river to a bend in the wall.  Going around the bend you see a large garage type door.  Its heavy and you can't move it at all.
 
 Going back to the wall bend you notice a metal strut coming out about 5 feet from the top.  'If I can loop the rope around that I may be able to climb over.' you think.  After several repeated tries the rope finally catches on the strut.  You pull, it bends a little but holds.
 
