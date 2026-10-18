@@ -5,4 +5,4 @@ Coming down the metal stairs from the top of the wall a glint of sunlight hits y
 
 Looking at the compound area you see it is overgrown with tall foliage.  No one has been here for a long time.  Moving isn't easy in these dense plants.  You are able to move a little better along the wall.  It takes a bit but you eventually make it to the radio tower/building.
 
-- 🗼 [Continue into radio building](./scene10Aa.md)
+- 🗼 [Continue into radio building](./scene10Ab.md)

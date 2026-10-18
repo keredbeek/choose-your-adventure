@@ -11,6 +11,6 @@ Looking left there is an open doorway, on the right there is another dilophosaur
 
 What is your choice?
 
-- 🪜 [Jump for the fire escape](./scene10Ae.md)
+- 🪜 [Jump for the fire escape](./scene10Af.md)
 
-- ⬅️ [Go left out the alleyway](./scene10Af.md)
+- ⬅️ [Go left out the alleyway](./scene10Ag.md)

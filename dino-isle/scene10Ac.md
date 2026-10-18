@@ -7,6 +7,6 @@ You come upon a large building on your left that says Canteen above the entrance
 
 Which way will you go?
 
-- 🍽️ [Enter the canteen](./scene10Ac.md)
+- 🍽️ [Enter the canteen](./scene10Ad.md)
 
-- 🛣️ [Go down the street](./scene10Ad.md)
+- 🛣️ [Go down the street](./scene10Ae.md)

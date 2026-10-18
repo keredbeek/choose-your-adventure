@@ -7,6 +7,6 @@ Resting for a few minutes, you hear a faint engine sound.  "I have to get to the
 
 Which route will you take?
 
-- 🪜 [Take the ladder](./scene10Ag.md)
+- 🪜 [Take the ladder](./scene10Ah.md)
 
-- ⛱️ [Go with the awning](./scene10Ah.md)
+- ⛱️ [Go with the awning](./scene10Ai.md)
