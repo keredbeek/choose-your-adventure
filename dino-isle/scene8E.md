@@ -7,4 +7,4 @@ Up ahead you can hear something stirring.  Creeping around the batch of trees yo
 
 Up ahead you can see the fence to the compound. Following the river paid off.  "Thank God!" you mutter under your breath.  Now you have to find some way to get on the other side.
 
-- ▶️ [Continue to the fence](./scene9.md)
+- ▶️ [Continue to the fence](./scene9Ba.md)
