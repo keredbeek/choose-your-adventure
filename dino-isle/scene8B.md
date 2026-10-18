@@ -1,5 +1,5 @@
 
-# Scene 8B: Between the Dino Groups
+# Between the Dino Groups
 
 Deciding to go between the dino groups seems like a good option.  It's the quickest way to the compound.  'With two groups of dinos on each side of me, I should be relatively safe.' thinking to yourself.  You keep alert for any large predator dinos that may be lurking in the area.
 

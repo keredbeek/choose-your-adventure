@@ -1,5 +1,5 @@
 
-# Scene 8E: Leave Radio and Head to River
+# Leave Radio and Head to River
 
 Deciding the radio is of little use without power, you head to the river.  Good thing you left the jeep area when you did.  The herd of stegosaurus seen earlier comes rampaging through being chased by 2 t-rexes.  The jeep is trampling to bits.
 

@@ -1,5 +1,5 @@
 
-# Scene8D: Take Radio and Head to River
+# Take Radio and Head to River
 
 After packing the radio in the backpack, you head to the river. Good thing you left the jeep area when you did.  The herd of stegosaurus seen earlier comes rampaging through being chased by 2 t-rexes.  The jeep is trampling to bits.   
 
