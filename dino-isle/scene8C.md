@@ -1,5 +1,5 @@
 
-# Scene 8C: South Around the Stegosaurus Group
+# South Around the Stegosaurus Group
 
 Going south didn't seem like such a hot idea.  You give these stegosaurus a wide berth since the grass is quite a bit shorter here.  Don't want them to wander over by you with that spiked tail they can whip around.  You see the river further off south and decide to head that way.  It should lead you to the compound if the map is right.
 

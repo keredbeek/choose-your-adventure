@@ -1,5 +1,5 @@
 
-# Scene 1A: Beach Search
+# Beach Search
 
 Walking along the beach you find a backpack that washed ashore.  Looking through it you find nothing, but decide to take it with you in case you find anything you may want to carry.  You walk to both ends of the beach, finding nothing else.  Occasionally you hear that terrible growl/shriek from the way of the dense forest, but it seems to be fading.
 

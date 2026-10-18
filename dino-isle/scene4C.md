@@ -1,5 +1,5 @@
 
-#  Scene 4C: Bypass the Truck
+#  Bypass the Truck
 
 Upon seeing the old rusted truck, you decide not to investigate it.  You want to continue on even though darkness is falling.  Taking one last glance at the map you see the end of the swamp is not far ahead.  Relieved, you suddenly start feeling exhaustion shroud over you.  Looking ahead you can just make out what looks like several trees at the edge of the swamp and decide to sit there and rest for a little bit.
 

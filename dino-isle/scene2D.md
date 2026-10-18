@@ -1,4 +1,4 @@
-# Scene 2D: Hide
+# Hide
 
 You duck behind a cluster of trees as heavy footsteps shake the ground around you.
 

@@ -1,5 +1,5 @@
 
-# Scene 1C: Cliff Climb
+# Cliff Climb
 
 Not wanting to risk going through the forest or wait for rescue on the beach, you decide to start climbing.  It is rough and you have to skirt along a thin ledge taking you out over the water.  Looking down, there are indeed rather large sharks all over the place.  You can't see the beach anymore but you figure your about 50 or 60 yards from it.
 

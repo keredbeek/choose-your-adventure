@@ -1,5 +1,5 @@
 
-# Scene 4B: The Map Path
+# The Map Path
 
 Turning south you see the water isn't as deep here.  Still very swampy but easier walking.  Keeping the map out with you for a guide since you don't want to get off the route.  You are trying to be careful and move a little quick so not to be stuck in the swamp at night.  Looking off to the left you see large alligator headed away from you.  If that doesn't want to make you hurry even more.
 
