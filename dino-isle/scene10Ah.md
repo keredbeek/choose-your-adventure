@@ -5,4 +5,4 @@ There is about a 5 foot drop to the awning.  "Piece of cake" you mutter.  Sittin
 
 Doing a quick check over, you see nothing is wrong.  Clambering out of the backend, you start running down the street towards the bridge.  Looking behind you there are 2 dilophosaurus chasing you a ways back.
 
-- ▶️ [Continue to the bridge](./scene10Ai)
+- ▶️ [Continue to the bridge](./scene10Ai.md)
