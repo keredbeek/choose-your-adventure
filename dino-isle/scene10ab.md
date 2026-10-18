@@ -10,4 +10,4 @@ After a few minutes you repeat, still nothing, so you go a third time.
 
 Then a response "We hear you.  Where are you?"  You explain to them your situation on Dino Isle.  They know where that is but it will take about 90 minutes for them to get there.  Thanking and telling them you're on the eastern end of the island in a compound.  You barely get that out and the radio dies. You pray they can get you.  You decide to see if there is a place they can get you easier because it won't be here.
 
-- 🔎 [Search compound](./scene10Ac)
+- 🔎 [Search compound](./scene10Ac.md)
