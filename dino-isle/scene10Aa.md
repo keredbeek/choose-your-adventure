@@ -1,5 +1,5 @@
 
-# Scene 10Aa: Radio Building
+# Radio Building
 
 Arriving at the small radion building you cautiously open the door to peer inside.  Entering after making sure it is safe, you see there is a microphone on floor, wires on the desk, but no radio.  Thanking yourself that you took the jeep radio, all you need now is some power.
 

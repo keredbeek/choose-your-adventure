@@ -1,5 +1,5 @@
 
-# Scene 9A: Go the River Way
+# Go the River Way
 
 There is a small 12 x 12 inch door you notice nearby that says 'Samples Here'.  Opening it you see that it is about 20 feet long.  'Must run straight to the inside.' you think.  Taking off your shirt and boots you put them in the backpack.  After placing the pack inside the sample tunnel, you find a long branch to push it almost all the way through and shut the door.  "The less I have on to swim the better!" you tell yourself.
 

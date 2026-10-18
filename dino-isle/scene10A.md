@@ -1,5 +1,5 @@
 
-# Scene 10: Into the Compound
+# Into the Compound
 
 Coming down the metal stairs from the top of the wall a glint of sunlight hits you in the face.  Putting your hand up, it is from solar panels on top of a small building  Next to it is a radio tower at the north end of the compound.  'That is my first stop!' you think.  It is a little ways away and you decide to keep a quiet, low profile and move along the inner wall.  After all you don't know if anything may have gotten in here.
 
