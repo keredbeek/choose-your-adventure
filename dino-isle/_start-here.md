@@ -5,7 +5,7 @@
 
 ### Vacation of a Lifetime
 
-It has been awhile since you decided to take a vacation on your own. "Buying a boat was a dumb idea", your ex had said.  You needed this!  Getting away from civilization to the peace and quiet of the tranquil oceans is the best medicine for stress.
+It has been awhile since you decided to take a vacation on your own.  But for your 33rd birthday you decided to get a boat and take a trip.  "Buying a boat was a dumb idea", your ex had said.  You needed this!  Getting away from civilization to the peace and quiet of the tranquil oceans is the best medicine for stress.
 
 A few days ago you sailed from Chimbote, Peru.  Yes a long leisurely trip to your final destination - Bora Bora.  You had been dreaming of this trip for years and finally decided it was now or never!
 
