@@ -5,6 +5,6 @@ Viewing the 'fence' as it says on the map is a little disheartening.  It is a 3 
 
 What should you do?
 
-- 🏞️ [Go the river way](./scene9A.md)
+- 🏞️ [Go the river way](./scene9Aa.md)
 
-- 🧱 [Search the wall](./scene9B.md)
+- 🧱 [Search the wall](./scene9Ab.md)

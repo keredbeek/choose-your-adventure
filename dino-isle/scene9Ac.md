@@ -9,4 +9,4 @@ Second guessing your decision you think 'Maybe I should go back and try the rive
 
 Climbing on the metal strut and leaping, you grasp the ledge of the wall.  Once on top you see the wall is about 15 feet wide.  There is a staircase leading down to the compound not very far away.
 
-- ▶️ [Continue into the compound](./scene10.md)
+- ▶️ [Continue into the compound](./scene10Aa.md)
