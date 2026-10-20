@@ -5,6 +5,8 @@ Turning south you see the water isn't as deep here.  Still very swampy but easie
 
 You make a turn to the north, according to the map and you should be out of here soon.  Been walking in here for a few hours but the fog is thinnig out.  Up ahead you can make out a large shape, hard to see since daylight is fading.  You creep up to it slowly.  'Whew!  Only a broken down truck stuck in the mud.' you think to yourself.
 
+![alt text](images/DinoIsleMapTruck.jpg)
+
 What would you like to do?
 
 - 🛻 [Search the truck](./scene4D.md)
