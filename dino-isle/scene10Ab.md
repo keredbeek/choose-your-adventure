@@ -1,6 +1,8 @@
 
 # Radio Building
 
+![alt text](images/DinoIsleMapRadio.jpg)
+
 Arriving at the small radio building you cautiously open the door to peer inside.  Entering after making sure it is safe, you see there is a microphone on floor, wires on the desk, but no radio.  Thanking yourself that you took the jeep radio, all you need now is some power.
 
 In the next room there is a large battery bank.  Looking at the battery status you see a couple still have some charge left.  'Where can I plug it in?' asking yourself.  Tracing the cords you find it goes to an outlet in the next room. Setting the radio on the desk you plug in the mic and a cord that is labeled antenna.  You scour the room and eventually find a wall plug that you jerry-rig to fit the radio connection.
