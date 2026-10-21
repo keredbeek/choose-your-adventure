@@ -4,7 +4,7 @@ Coming out of the mine, you take in the fresh outside air. Looking out over the 
 
 However, a lone dilophosaurus circles the herd, watching closely for an opportunity to strike. The herd begins moving toward the path ahead, blocking your way forward.
 
-With the predator nearby and the herd in your way, you have only two options: try to go around them or carefully make your way through the moving herd.
+With the predator nearby and the herd in your way, you have only two options: try to go around them or carefully try to make your way through the moving herd.
 
 Which do you choose?
 
